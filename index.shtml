@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zxx">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lab12</title>
+        <script src="https://kit.fontawesome.com/34e100283f.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <!--#include virtual="ssi/header.html"-->
+        <article>
+            <section>
+                <header>
+                    <h2>
+                        <a href="#">
+                        Product One
+                        </a>
+                    </h2> 
+                </header>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus efficitur erat, id luctus tortor euismod sit amet. In tincidunt, nibh vel imperdiet tristique, erat purus interdum felis, nec hendrerit ante purus sit amet velit. Quisque vel orci quis neque eleifend imperdiet id a turpis. Aliquam dictum vitae dolor at imperdiet. Vivamus ultrices quam non augue laoreet, sit amet mollis nisl elementum. Nunc vestibulum ante a est sagittis euismod. Mauris imperdiet justo vitae dictum rhoncus. Mauris ornare risus aliquet porta elementum. Mauris urna ante, bibendum ullamcorper pharetra non, suscipit et purus. Donec fringilla sed magna nec maximus. Sed lectus massa, consectetur id iaculis imperdiet, aliquet et nisl. Aliquam a nunc nec enim varius euismod nec tincidunt ex. 
+                </p>
+            </section>
+            <section>
+                <header>
+                    <h2>
+                        <a href="#">
+                        Second Product
+                        </a>
+                    </h2>
+                </header>
+                <p>
+                    Sed aliquam ut metus ut aliquet. Morbi dolor ligula, porttitor et suscipit ac, viverra vel arcu. Sed id elementum libero. Pellentesque bibendum nisl nulla, quis varius erat tincidunt eget. Morbi elit purus, dignissim sagittis mi et, tempor dapibus mauris. Maecenas finibus, mauris vitae tincidunt tincidunt, lectus ipsum molestie tellus, sit amet euismod lorem eros sit amet erat. Quisque venenatis felis ut nunc imperdiet, at rutrum arcu malesuada. Aenean ut fringilla ligula. Nam ut luctus diam, sit amet ultricies lorem. Aliquam ac rhoncus odio. Suspendisse potenti. Nunc tincidunt ornare efficitur. Sed cursus semper nunc, id fermentum nibh pretium nec.
+                </p>
+                <hr> 
+                <p>
+                    Nullam eget lobortis arcu. Pellentesque non fringilla ipsum, efficitur varius est. In vitae sapien lobortis felis rhoncus tristique in a mi. Curabitur vel efficitur diam. Integer bibendum scelerisque odio sed euismod. Sed leo quam, viverra ut tincidunt et, facilisis quis nibh. Sed aliquam justo cursus, pellentesque odio sit amet, mollis lorem. Fusce luctus eleifend nisi nec molestie. Maecenas eleifend augue non imperdiet lacinia. Praesent eleifend elit et lectus blandit eleifend. Vestibulum metus ligula, tempor vel tellus a, pretium iaculis elit.
+                </p>
+            </section>
+            <section>
+                <header>
+                    <h2>
+                        <a href="#">
+                        3rd Item
+                        </a>
+                    </h2>
+                </header>
+                <p>
+                     eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                </p>
+            </section>
+            <aside>
+                <address>
+                    lorem ipsum <br>
+                    505 Amherst Street<br>
+                    Nashua, NH 03063<br>
+                </address>
+                <a href="tel:+16035788909"><i class="fas fa-phone"></i>603 578-8909</a>
+                <br>
+                <a href="mailto:nashua@ccsnh.edu"><i class="fas fa-envelope-open"></i>nashua@ccsnh.edu</a>
+                <br>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2927.677629173289!2d-71.52588848452986!3d42.795164479160036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3b68a1e480291%3A0x38bca88e488cdf3!2sNashua%20Community%20College!5e0!3m2!1sen!2sus!4v1605791603045!5m2!1sen!2sus" width="250" height="250" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            </aside>
+        </article>
+        <!--#include virtual="ssi/footer.html"-->
+    </body>
+</html>
